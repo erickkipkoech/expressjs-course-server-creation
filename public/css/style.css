@@ -1,0 +1,16 @@
+body{
+    background: #333;
+    color: #fff;
+}
+h1{
+    align-items: center;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+aside{
+    display: flex;
+    flex-direction: column;
+}
